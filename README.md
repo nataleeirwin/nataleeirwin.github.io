@@ -8,25 +8,25 @@ Over the course of 10 weeks we have completed nine labs and seven projects, all 
 
 **Projects**
 - [Project 1]()
-     Designed to gain experience working with command line interface and the subsequent commands as well as working with VSCode and Node.js.
+     * Designed to gain experience working with command line interface and the subsequent commands as well as working with VSCode and Node.js.
 
 - [Project 2]()
-     Practice using CLI, VSCode, and Node.js to create comprehensive JavaScript code. 
+     * Practice using CLI, VSCode, and Node.js to create comprehensive JavaScript code. 
  
 - [Project 3]()
-     Refactoring and problem-solving with modern JavaScript syntax. Also using Node.js and Fastify to gain experience with the GET verb, routes, and query          parameters.
+     * Refactoring and problem-solving with modern JavaScript syntax. Also using Node.js and Fastify to gain experience with the GET verb, routes, and query          parameters.
      
 - [Project 4]()
-     Gained experience with Postman, REST API, and Fastify. Additional practice exporting code modules and testing code without using a web server.
+     * Gained experience with Postman, REST API, and Fastify. Additional practice exporting code modules and testing code without using a web server.
      
 - [Project 5]()
-     Working with modern JavaScript such as class constructors and methods, code modules, and arrays in order to make a functioning game. Project was optional for extra credit.
+     * Working with modern JavaScript such as class constructors and methods, code modules, and arrays in order to make a functioning game. Project was optional for extra credit.
 
 - [Project 6]()
-     Continue to gain experience with JavaScript syntax. Creating/working with classes, class inheritance, debugging, and static data.
+     * Continue to gain experience with JavaScript syntax. Creating/working with classes, class inheritance, debugging, and static data.
      
 - [Project 7]()
-     Creating a CIT Minor portfolio in order to practice using GitHub Pages and repos.
+     * Creating a CIT Minor portfolio in order to practice using GitHub Pages and repos.
      
 
 ```markdown
