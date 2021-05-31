@@ -6,7 +6,7 @@ Over the course of 10 weeks we have completed nine labs and seven projects, all 
 
 ## Projects and labs completed in Spring 2021:
 
-**Projects**
+**# Projects**
 - [Project 1]()
      * Designed to gain experience working with command line interface and the subsequent commands as well as working with VSCode and Node.js.
 
