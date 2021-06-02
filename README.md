@@ -11,10 +11,10 @@ Over the course of 10 weeks we have completed nine labs and seven projects, all 
     * Designed to gain experience working with command line interface and the subsequent commands 
     * Begin to use VSCode and Node.js.
 
-- [Project 2]()
+- [Project 2](https://nataleeirwin.github.io/cit281-p2/)
     * Practice using CLI, VSCode, and Node.js to create comprehensive JavaScript code. 
  
-- [Project 3]()
+- [Project 3](https://nataleeirwin.github.io/cit281-p3/)
     * Refactoring and problem-solving with modern JavaScript syntax.
     * Using Node.js and Fastify to gain experience with the GET verb, routes, and query parameters.
      
