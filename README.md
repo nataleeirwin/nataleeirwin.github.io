@@ -7,7 +7,7 @@ Over the course of 10 weeks we have completed nine labs and seven projects, all 
 ## Projects and labs completed in Spring 2021:
 
 **_Projects_**
-- [Project 1]()
+- [Project 1](https://github.com/nataleeirwin/cit281-p1)
     * Designed to gain experience working with command line interface and the subsequent commands 
     * Begin to use VSCode and Node.js.
 
