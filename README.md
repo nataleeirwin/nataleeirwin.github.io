@@ -34,37 +34,37 @@ Over the course of 10 weeks we have completed nine labs and seven projects, all 
 
 
 **_Labs_**
-- [Lab 1]()
+- [Lab 1](https://nataleeirwin.github.io/cit281-lab1/)
     * Installing/using software for the course such as Visual Studio Code (as well as extensionis), Node.js, git, and Postman
     * Using terminal to create folders and files
 
-- [Lab 2]()
+- [Lab 2](https://nataleeirwin.github.io/cit281-lab2/)
     * Using CLI commands and git to create repositories and add, stage, and commit files      
     
-- [Lab 3]()
+- [Lab 3](https://nataleeirwin.github.io/cit281-lab3/)
     * Practicing modern JavaScript syntax such as refactoring and destructuring. 
     * Using Node.js to export and require code modules
 
-- [Lab 4]()
+- [Lab 4](https://nataleeirwin.github.io/cit281-lab4/)
     * Create a Fastify Node.js web server as well as adding additional routes with query parameters
     * Use npm and git to add, stage, and commit server files
     
-- [Lab 5]()
+- [Lab 5](https://nataleeirwin.github.io/cit281-lab5/)
     * Begin to work with Postman. Use GET and POST verbs to respond to requests with JSON
     * Use Node.js and Fastify to create a server
 
-- [Lab 6]()
+- [Lab 6](https://nataleeirwin.github.io/cit281-lab6/)
     * Join GitHub and learn the basics
     * Work with creating classes and adding methods
 
-- [Lab 7]()
+- [Lab 7](https://nataleeirwin.github.io/cit281-lab7/)
     * Create GitHub organizations and repositories
     * Practice commiting files and pushing the changes to GitHub
     
-- [Lab 8]()
+- [Lab 8](https://nataleeirwin.github.io/cit281-lab8/)
     * Begin using node-fetch and continue working with fastify and JSON
     
-- [Lab 9]()
+- [Lab 9](https://nataleeirwin.github.io/cit281-lab9/)
     * Work through a course repo on GitHub
     
 ![Background Image](https://github.com/nataleeirwin/nataleeirwin.github.io/blob/main/backgroundImage.jpg)
